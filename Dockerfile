@@ -1,4 +1,8 @@
+ snyk-fix-5ce268800f44bc66dc472c6622de2766
+FROM node:12.20.1
+
 FROM node:12.22
+master
 
 WORKDIR /app
 
